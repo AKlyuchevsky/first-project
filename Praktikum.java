@@ -1,3 +1,4 @@
-publik class Lesson1 {
-
+publik class Praktikum{
+	publik static void main( String[] args){
+} 	
 }
